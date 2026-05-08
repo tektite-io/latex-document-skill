@@ -5,6 +5,10 @@
 <h1 align="center">LaTeX Document Skill</h1>
 
 <p align="center">
+  <a href="https://happycapy.ai/?via=gh">Made by HappyCapy AI</a>
+</p>
+
+<p align="center">
   <strong>The capybara sat down at the typewriter. When it stood up, there was a thesis.</strong>
 </p>
 
