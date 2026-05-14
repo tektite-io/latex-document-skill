@@ -1,5 +1,5 @@
 ---
-name: latex-document
+name: latex-document-skill
 description: >
   Universal LaTeX document skill: create, compile, and convert any document to
   professional PDF with PNG previews. Supports resumes, reports, cover letters,
@@ -413,3 +413,4 @@ These cause `Undefined control sequence` -- always include the required package:
 ## Long-Form Document Anti-Patterns
 
 For documents 5+ pages (reports, theses, books), read [references/long-form-best-practices.md](references/long-form-best-practices.md) for 9 critical anti-patterns, the report preamble best practices, and the content generation checklist. **This is MUST-READ material before generating any long document.**
+
